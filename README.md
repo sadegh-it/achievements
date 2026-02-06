@@ -6,3 +6,5 @@
 تغییر سوم
 
 تغییر چهارم
+git add .
+git commit -m "Add YOLO test commit"
